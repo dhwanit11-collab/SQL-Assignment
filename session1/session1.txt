@@ -1,0 +1,16 @@
+1.MySQL:-
+	MySQL is a popular open-source relational database system.
+	It is commonly used for websites and web applications.
+	It is relatively easy learn and has good performance for many applications.
+2.Postgre SQL:-
+	PostgreSQL IS AN open-source relational database known for advanced features.
+	It supports complex queries, transactions, and strong data integrity.
+	It is widely used for large and complex applications.
+3.Oracle:-
+	Oracle database is a powerful commercial relational database system.
+	It is designed for large-scale enterprise applications and high workloads.
+	It provides advanced security, scalability, and database management features.
+4.SQLite:-
+	SQLite is a lightweight, serverless relational database.
+	It stores the entire database in a  single file and requires very little set up.
+	It is commonly used in mobile applications, and small projects. 
